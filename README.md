@@ -480,3 +480,15 @@ A iniciativa busca demonstrar como dados governamentais abertos podem ser transf
 <p align="center">
   <strong>Compra Clara — Dados públicos, análise inteligente e transparência nas compras governamentais.</strong>
 </p>
+
+<table>
+  <tr>
+    <td bgcolor="#161B22">
+      <h2>integrantes do grupo👥</h2>
+    </td>
+  </tr>
+</table>
+-Felipe
+-Gabriel Paz
+-Gabriel Luiz
+-Kallebe Torres
